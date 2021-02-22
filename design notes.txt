@@ -1,0 +1,15 @@
+15mm standoffs
+5mm screws
+.1 inch (>2.4mm) rubber pads
+
+
+WHat if the signal diodes are LEDs?!?!?!
+nah
+
+Features
+Programmable knob
+Media buttons
+LEDs
+
+LEDs should be one for each key - 4 pin LED for RGB
+
